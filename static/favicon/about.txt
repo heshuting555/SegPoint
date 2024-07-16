@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Lora
+- Font Author: Copyright 2011 The Lora Project Authors (https://github.com/cyrealtype/Lora-Cyrillic), with Reserved Font Name "Lora".
+- Font Source: http://fonts.gstatic.com/s/lora/v32/0QI6MX1D_JOuGQbT0gvTJPa787z5vCJGmKxemMeZ.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
